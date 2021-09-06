@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Nguyet 
 url: https://ngtto/nt.github.io/
-catagories: jekyll update
-
-image: ![](docs/assets/IMG_2653.png)
-author: NT
+baseurl: /nt.github.io
+favicon:     "images/favicon.ico"
+aboutme: hi, its me
+aboutme_photo: https://github.com/ngtto/nt.github.io/blob/main/docs/assets/IMG_2653.png
