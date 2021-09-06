@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 title: Nguyet 
 url: https://ngtto/nt.github.io/
 catagories: jekyll update
-<img src="{{https://github.com/ngtto/nt.github.io}}/docs/assets/IMG_2653.png" style="display: block; margin: auto;" />
+image: /docs/assets/IMG_2653.png
+![]({{ page.image | relative.url }})
 
 
