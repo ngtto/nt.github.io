@@ -6,7 +6,7 @@
 
 4.Source Code: [Repository]
 
-image: IMG_2653.png
+![](/docs/assets/IMG_2653.png)
 
 ![]({{ page.image | relative.url }})
 
