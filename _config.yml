@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Nguyet 
 catagories: jekyll update
-avatar: IMG_2653.png
+image: https://github.com/ngtto/nt.github.io/blob/main/docs/assets/IMG_2653.png
+![]({{page.image| relative_url}})
 
