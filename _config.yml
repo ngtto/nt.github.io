@@ -4,4 +4,4 @@ url: https://ngtto/nt.github.io/
 catagories: jekyll update
 
 image: ![](docs/assets/IMG_2653.png)
-![]({{page.image|relative_url}})
+image: ![]({{page.image|relative_url}})
