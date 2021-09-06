@@ -6,5 +6,3 @@
 
 4.Source Code: [Repository]
 
-![alt](/docs/assets/IMG_2653.jpg)
-![]({{page.image| relative_url}})
