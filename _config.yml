@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Nguyet 
 catagories: jekyll update
 image: /docs/assets/IMG_2653.jpg
-![]({{ page.image | relative_url }})
+![]({{page.image}})
