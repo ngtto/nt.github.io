@@ -8,5 +8,5 @@
 
 ![](/docs/assets/IMG_2653.png)
 
-![]({{ page.image | relative.url }})
+
 
